@@ -2,6 +2,7 @@ sample testing in Postman:
 
 Event DTOs
 - request method to POST and use URL: http://localhost:3000/events
+```json
 {
   "title": "Tech Conference 2025",
   "description": "A global event showcasing the latest in tech innovations, speakers, and workshops.",
@@ -11,6 +12,10 @@ Event DTOs
   "eventId": "3d1d2e13-9fba-4c3a-90fc-16d31dbfd5bb",
   "eventCode": "tech-conf-2025"
 }
+csharp
+Copy
+Edit
+```
 
 other DTOs
 - request method to POST and use URL: http://localhost:3000/validate/{sample}
