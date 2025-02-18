@@ -12,9 +12,6 @@ Event DTOs
   "eventId": "3d1d2e13-9fba-4c3a-90fc-16d31dbfd5bb",
   "eventCode": "tech-conf-2025"
 }
-csharp
-Copy
-Edit
 ```
 
 other DTOs
