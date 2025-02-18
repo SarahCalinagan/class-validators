@@ -1,3 +1,6 @@
+**NestJS**
+Run in VScode: npm run start
+
 sample testing in Postman:
 
 Event DTOs
